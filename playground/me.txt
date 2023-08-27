@@ -1,5 +1,0 @@
-{{#user}}
-Name: Kartik Vyas
-Skills: HTML, CSS, JS, Node.js , express, Rest api
-Email: kartikvyas02@gmail.com
-{{/user}}
